@@ -3,7 +3,7 @@
 
 
 - :paperclip: I’m currently working with .NET, SQL Server and Angular
-- :computer: I’m currently learning React
+- :computer: I’m currently learning React, React Native and Nodejs
 
 <br />
 
