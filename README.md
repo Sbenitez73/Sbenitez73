@@ -1,4 +1,4 @@
-### I'm Santiago Benítez          <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" margin-top="100px" width="25px">
+### I'm Santiago Benítez          <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px">
 
 
 
