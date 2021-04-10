@@ -2,12 +2,9 @@
 
 
 
-- 🔭 I’m currently working on anything
+- :paperclip: I’m currently working with .NET, SQL Server and Angular
 - :computer: I’m currently learning React
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbenitez73&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbenitez73&show_icons=true&theme=dracula)
