@@ -1,4 +1,5 @@
 ### I'm [Santiago Benítez!](https://sbenitezdev.netlify.app)          <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=sbenitez73)
 <br />
 
 <a href="https://www.linkedin.com/in/santiago-ben%C3%ADtez-68b402150/"><img height="30" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc"></a>
