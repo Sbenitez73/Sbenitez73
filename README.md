@@ -1,4 +1,4 @@
-### I'm [Santiago Benítez!](https://sbenitezdev.netlify.app)          <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px">
+### I'm [Santiago Benítez!](https://sbenitezdev.netlify.app)
 ![](https://visitor-badge.glitch.me/badge?page_id=sbenitez73)
 <br />
 
