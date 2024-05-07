@@ -23,5 +23,5 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sbenitez73&show_icons=true&theme=tokyonight&locale=en" alt="Sbenitez Stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbenitez73&layout=compact&theme=tokyonight&locale=en" alt="Sbenitez Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbenitez73&layout=compact&theme=tokyonight&locale=en" alt="Sbenitez Languages" height="175">
 </p>
