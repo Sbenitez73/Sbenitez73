@@ -1,4 +1,4 @@
-### I'm [Santiago Benítez!]([https://medium.com/@sbenitez73](https://medium.com/@sbenitez73)
+### I'm [Santiago Benítez!]([https://medium.com/@sbenitez73]https://medium.com/@sbenitez73)
 ![](https://visitor-badge.glitch.me/badge?page_id=sbenitez73)
 <a href="https://www.linkedin.com/in/santiago-ben%C3%ADtez-68b402150/"><img height="30" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc"></a>
 
